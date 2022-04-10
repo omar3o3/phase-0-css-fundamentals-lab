@@ -3,3 +3,76 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #edcf7b;
+}
+
+img#openingPhoto{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav#headerLinks{
+  text-align: center;
+}
+
+
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #d7d9d2;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 15px;
+  color: #9d9e9d;
+  font-style: italic;
+}
+
+section#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+
+div#Contact{
+  /* padding-left: 30px;
+  padding-right: 30px; */
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #edcf7b
+}
+
+div#Correspondence{
+  /* padding-left: 30px;
+  padding-right: 30px; */
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #edcf7b
+}
+
+div#Links{
+  /* padding-left: 30px;
+  padding-right: 30px; */
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #edcf7b
+}
+
+div#Follow{
+  /* padding-left: 30px;
+  padding-right: 30px; */
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #edcf7b
+}
